@@ -1,24 +1,23 @@
 # Todo App: API com ASP.NET Core 6.0, EF Core e CQRS
-Exemplo de construção da API para uma solução Backend de uma Lista de Tarefas, implementando as melhores soluções na arquitetura da API.
+Exemplo de construÃ§Ã£o da API para uma soluÃ§Ã£o Backend de uma Lista de Tarefas, implementando as melhores soluÃ§Ãµes na arquitetura da API.
 
-## Neste exemplo sobre API com ASP.NET Core, CQRS e EF Core você vai...
-*   Estruturar e organizar uma solução de API
+## Neste exemplo sobre API com ASP.NET Core, CQRS e EF Core vocÃª vai...
+*   Estruturar e organizar uma soluÃ§Ã£o de API
 *   Implementar CQRS em uma API
 *   Implementar Design By Contract
-*   Modelar contextos e domínios
+*   Modelar contextos e domÃ­nios
 *   Implementar Domain Notifications
-*   Implementar tratamento de exceções
+*   Implementar tratamento de exceÃ§Ãµes
 *   Implementar o Repository Pattern
 *   Aplicar Fail-Fast Validations
 *   Escrever testes de unidade para Handlers, Entities, Queries e Commands
 *   Utilizar Entity Framework Core em um projeto de API
-*   Utilizar banco de dados em memória
+*   Utilizar banco de dados em memÃ³ria
 *   Utilizar Data Context e mapeamentos
-*   Criar fakes e mocks para testes de unidade
-*   Escrever controllers enxutos e organizar responsabilidades
+*   Utilizar fakes e mocks para testes de unidade
+*   Utilizar controllers enxutos e organizar responsabilidades
 
-
-## Tecnologias e versões utilizadas
+## Tecnologias e versÃµes utilizadas
 *   ASP.NET Core 6.0
 *   Entity Framework Core
 *   SQL Server
